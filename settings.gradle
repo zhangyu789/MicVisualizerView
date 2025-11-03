@@ -1,0 +1,3 @@
+rootProject.name = "MicVisualizerView"
+include ':mic-visualizer'
+

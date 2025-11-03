@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="MicVisualizerView">
+        <attr name="coreColor" format="color" />
+        <attr name="edgeColor" format="color" />
+        <attr name="particleColor" format="color" />
+        <attr name="particleCount" format="integer" />
+        <attr name="maxRms" format="float" />
+        <attr name="baseRadiusRatio" format="float" />
+    </declare-styleable>
+</resources>
