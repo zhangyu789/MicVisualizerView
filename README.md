@@ -48,7 +48,7 @@ dependencies {
 <com.zy.view.MicVisualizerView
     android:id="@+id/micVisualizer"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="150dp"
     app:coreColor="#FF4081"
     app:edgeColor="#448AFF"
     app:particleColor="#00FFFF"
