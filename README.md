@@ -3,7 +3,8 @@
 
 高性能麦克风音量可视化组件（Android Library）
 
-![MicVisualizerView Demo](https://user-images.githubusercontent.com/你的GitHub头像/你的仓库演示图.png)
+<img width="750" height="625" alt="image" src="https://github.com/user-attachments/assets/023d7581-c570-4b0e-be00-fb8294c8c357" />
+
 
 ---
 
